@@ -12,3 +12,10 @@
 /captures
 .externalNativeBuild
 .cxx
+
+~*
+.ssh
+db
+log
+ts
+vcs
